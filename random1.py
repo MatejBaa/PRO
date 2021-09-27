@@ -27,5 +27,5 @@ for i in range(20):
         t.pencolor('red')
         stvorec(30)
     else:
-        t.pencolor('blue')
+        t.pencolor('green')
         trojuholnik(30)
